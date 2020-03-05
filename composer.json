@@ -13,7 +13,6 @@
             "email": "wangpo@globalegrow.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Flower\\Rose\\": "src/Flower/Rose",
