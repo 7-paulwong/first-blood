@@ -1,5 +1,5 @@
 {
-    "name": "paul/first-blood",
+    "name": "7-paulwong/first-blood",
     "description": "test first composer package",
     "type": "library",
     "require": {
